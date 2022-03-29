@@ -797,7 +797,7 @@ footer {
     height: 12.5em;
   }
   #bodybackground {
-    background-image: url(assets/images/portfoliobackground.png);
+    background-image: url(../images/portfoliobackground.png);
     background-size: 81.3125em;
     background-repeat: no-repeat;
     background-attachment: fixed;
